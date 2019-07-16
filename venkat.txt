@@ -7,3 +7,4 @@ branching demo
 merging demo -master
 merging demo
 
+tagging demo
