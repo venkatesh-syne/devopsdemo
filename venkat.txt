@@ -13,3 +13,5 @@ reset demo-1
 reset demo-2
 reset demo-3
 Reset demo - 4
+rebase-demo1
+rebase - 1
