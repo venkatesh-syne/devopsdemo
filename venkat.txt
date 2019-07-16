@@ -4,3 +4,4 @@ p
 q
 Practical
 branching demo
+merging demo
