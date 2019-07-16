@@ -8,3 +8,8 @@ merging demo -master
 merging demo
 
 tagging demo
+tagging demo - 1
+reset demo-1
+reset demo-2
+reset demo-3
+Reset demo - 4
