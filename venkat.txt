@@ -1,3 +1,5 @@
 Devops Training 
 Theory
+p
+q
 Practical
