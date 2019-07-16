@@ -5,3 +5,5 @@ q
 Practical
 branching demo
 merging demo -master
+merging demo
+
